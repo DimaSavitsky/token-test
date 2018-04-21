@@ -9,6 +9,7 @@
   "scripts": {
     "ganache": "ganache-cli",
     "compile": "truffle compile",
+    "console": "truffle console",
     "migrate": "truffle migrate",
     "test": "truffle test"
   },
